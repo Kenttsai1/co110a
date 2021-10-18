@@ -193,5 +193,8 @@ CHIP DMux8Way {
     
 ```
 
+![](https://github.com/Kenttsai1/co110a/blob/master/Picture/week2.jpg)
+
+
 # 狄(迪)摩根定律，七段顯示器-c
 ![](https://github.com/Kenttsai1/co110a/blob/master/Picture/dem7c.jpg)
