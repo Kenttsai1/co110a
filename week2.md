@@ -173,7 +173,7 @@ CHIP DMux4Way {
     // Put your code here:
     DMux(in=in, sel=sel[1], a=ab, b=cd);
     DMux(in=ab, sel=sel[0], a=a, b=b);
-    DMux(
+    DMux(in=cd, sel=sel[0], a=c, b=d);
 ```
 
 # DMux8Way
