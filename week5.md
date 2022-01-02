@@ -12,9 +12,10 @@ CHIP Bit {
     DFF(in=m1, out=d1, out=out);
 }
 
-![](https://github.com/Kenttsai1/co110a/blob/master/Picture/bit.jpg)
 
 ```
+![](https://github.com/Kenttsai1/co110a/blob/master/Picture/bit.jpg)
+
 # Register
 
 ```
@@ -44,9 +45,10 @@ CHIP Register {
 
 }
 
-![](https://github.com/Kenttsai1/co110a/blob/master/Picture/register.jpg)
 
 ```
+![](https://github.com/Kenttsai1/co110a/blob/master/Picture/register.jpg)
+
 # RAM8
 
 ```
