@@ -21,7 +21,6 @@ CHIP RAM64 {
 
 }
 ```
-![](https://github.com/Kenttsai1/co110a/blob/master/Picture/alu.jpg)
 
 # RAM512
 ```
@@ -45,7 +44,7 @@ CHIP RAM512 {
     Mux8Way16(a=r64a, b=r64b, c=r64c, d=r64d, e=r64e, f=r64f, g=r64g, h=r64h, sel=address[6..8], out=out);
 }
 ```
-![](https://github.com/Kenttsai1/co110a/blob/master/Picture/alu.jpg)
+
 
 # RAM4K
 ```
@@ -70,7 +69,7 @@ CHIP RAM4K {
 }
 
 ```
-![](https://github.com/Kenttsai1/co110a/blob/master/Picture/alu.jpg)
+
 
 # RAM16K
 ```
@@ -90,7 +89,7 @@ CHIP RAM16K {
     Mux4Way16(a=r4ka, b=r4kb, c=r4kc, d=r4kd, sel=address[12..13], out=out);
 }
 ```
-![](https://github.com/Kenttsai1/co110a/blob/master/Picture/alu.jpg)
+
 
 # PC
 ```
@@ -108,4 +107,4 @@ CHIP PC {
 }
 
 ```
-![](https://github.com/Kenttsai1/co110a/blob/master/Picture/alu.jpg)
+![](https://github.com/Kenttsai1/co110a/blob/master/Picture/pc.jpg)
