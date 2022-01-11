@@ -17,7 +17,7 @@ CHIP Memory {
     Mux16(a=ROut, b=temp, sel=address[14], out=out);
 }
 ```
-![](https://github.com/Kenttsai1/co110a/blob/master/Picture/cpu2.jpg)
+![](https://github.com/Kenttsai1/co110a/blob/master/Picture/memory.jpg)
 
 # Computer
 ```
