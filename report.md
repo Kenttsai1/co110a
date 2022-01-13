@@ -21,7 +21,7 @@ x86 處理器 RISC-V 處理器
 以上是從老師簡報中學到的內容
 謝謝老師的指導
 
-![](https://github.com/Kenttsai1/co110a/blob/master/Picture/x86.jpg)
+![](https://github.com/Kenttsai1/co110a/blob/master/Picture/x866.jpg)
 
 
 ## 補充
