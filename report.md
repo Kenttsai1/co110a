@@ -22,6 +22,8 @@ x86 處理器 RISC-V 處理器
 謝謝老師的指導
 
 ![](https://github.com/Kenttsai1/co110a/blob/master/Picture/x86.jpg)
+
+
 ## 補充
 ```
 這裡是從網站中看到的內容，微處理器晶片設計師在選擇ISA時，
