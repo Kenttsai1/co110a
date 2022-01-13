@@ -21,7 +21,7 @@ x86 處理器 RISC-V 處理器
 以上是從老師簡報中學到的內容
 謝謝老師的指導
 
-
+![](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwangofnextdoor.blogspot.com%2F2019%2F02%2Frisc-v.html&psig=AOvVaw33_F7WjXqkcdFl0bd9wQht&ust=1642133722048000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCID5_f3urfUCFQAAAAAdAAAAABAJ)
 ## 補充
 ```
 這裡是從網站中看到的內容，微處理器晶片設計師在選擇ISA時，
