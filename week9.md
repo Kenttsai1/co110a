@@ -152,7 +152,7 @@ CHIP Computer {
 | 62   |      10 |       0 |  23|       4 |       0 |       0 |
 | 63   |      23 |       0 |  24|       4 |       0 |       0 |
 ```
-
+來源
 ```
 https://github.com/yucing/co110a/wiki/week9.md
 ```
